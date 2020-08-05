@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 ## I'm a Student and a Developer!
 -->
 ### Kuzey Cimen
-<br />
 
 ### Languages and Tools:
 
